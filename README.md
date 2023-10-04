@@ -1,11 +1,6 @@
 # Chat-App-Project
 
-
-
-# Overview
-
-The project aims to create an Air Traffic Controller (ATC), a highly skilled professional responsible for overseeing and directing the movement of aircraft within airspace. Their primary goal is to ensure the safe and efficient flow of air traffic, prevent collisions, and maintain organized operations within a designated airspace. 
-
+The Real-Time Messaging Platform is a Java EE-based application that facilitates seamless user communication. It provides a real-time messaging experience akin to popular messaging apps like Messenger.
 
 # Pattern SINGLOTON presentation
 [BIKANIMINE_DesignPatternSingleton.pptx](https://github.com/AMINAKIM/Chat-App-Project/files/12807920/BIKANIMINE_DesignPatternSingleton.pptx)
@@ -17,8 +12,11 @@ The project aims to create an Air Traffic Controller (ATC), a highly skilled pro
  
 ## Features
 
-- **Chat en Temps Réel :** Discutez avec d'autres utilisateurs en temps réel.
-- **Notifications :** Soyez averti lorsque vous recevez un nouveau message.
+- **Real-Time Communication:**  Users can connect and engage in real-time conversations.
+- **Notifications:** Be notified when you receive a new message.
+- **Message History:** Ability to view previous messages within the session
+- **User-Friendly Interface:** Intuitive design for easy navigation and interaction.
+
 
 ## Installation
 
