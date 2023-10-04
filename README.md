@@ -35,5 +35,5 @@ We welcome contributions from the community. If you'd like to contribute, please
 4. Push to your branch: git push origin feature-name
 5. Create a pull request.
 
-## Auteur
+## Author
 - BIKANIMINE Amina (@AMINAKIM)
